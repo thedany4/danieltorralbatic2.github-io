@@ -1,0 +1,29 @@
+* {
+    font-family: sans-serif;
+}
+#fuente-generica {
+    font-family: initial;
+}
+#fuente-especifica {
+    font-family: 'Times New Roman', Times, serif;
+}
+#tamaño-px {
+    font-size: 25px;
+}
+#tamaño-em {
+    font-size: 1.5em;
+}
+#estilo-fuente {
+    font-style: italic;
+    
+}
+#altura-texto {
+    line-height: 100px;
+}
+#alineacion-texto {
+    text-align: center;
+}
+#decoracion-texto {
+    text-decoration: underline;
+}
+
