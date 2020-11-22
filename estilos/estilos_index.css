@@ -1,0 +1,38 @@
+*{
+    font-family: sans-serif;
+}
+h1 {
+    font-weight: bold;
+}
+.cabecera,section {
+    display:block;
+}
+.cabecera,.piepagina,.introduccion,.menu {
+    text-align: center;
+}
+.agrupar {
+    width: 950px;
+    border: 1px solid black;
+    margin: 15px auto; 
+}
+.cabecera {
+    background: #FFFBB9;
+    border: 1px solid #999999; 
+    padding: 20px;
+}
+.piepagina {
+    background: #0804e7;
+    color:white;
+}
+.introduccion {
+    font-size: 50;
+}
+.menu{
+    list-style: none;
+}
+body {
+    background: black;
+}
+div {
+    background: white;
+}
