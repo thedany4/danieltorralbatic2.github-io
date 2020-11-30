@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+}
+span {
+    color:red;
+}
+#div1 {
+    background-color:gray;
+}
+#div2 {
+    overflow: auto;
+    width: 250px;
+    height:85px;
+    background-color: lawngreen;
+}
+#div-box-model {
+    margin: 20px 20px 20px 20px;
+    border: 2px solid black;
+    padding: 25px;
+    
+}
